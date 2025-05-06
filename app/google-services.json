@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "574263930457",
+    "project_id": "signal-protocol-en-decryption",
+    "storage_bucket": "signal-protocol-en-decryption.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574263930457:android:e50cc572384663c2e44b48",
+        "android_client_info": {
+          "package_name": "com.example.securityprotocol"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6RTPAHZojFgvC2RL17X4zQNweOE-1w7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
