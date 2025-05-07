@@ -69,14 +69,14 @@ class MainActivity : AppCompatActivity() {
             ))
         }
 
-        findViewById<Button>(R.id.singleChat).setOnClickListener {
+        findViewById<Button>(R.id.singleChatAlice).setOnClickListener {
             startActivity(Intent(
                 this@MainActivity,
                 SingleMessagingAlice::class.java
             ))
         }
 
-        findViewById<Button>(R.id.singleChat).setOnClickListener {
+        findViewById<Button>(R.id.singleChatBob).setOnClickListener {
             startActivity(Intent(
                 this@MainActivity,
                 SingleMessagingBob::class.java
